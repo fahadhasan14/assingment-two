@@ -1,0 +1,74 @@
+body {
+    font-family: "Poppins", sans-s;
+  }
+  /* headbar   */
+  
+  .full-header {
+    display: flex;
+    background-color: #2d25a0;
+    justify-content: space-between;
+    margin-bottom: 70px;
+  }
+  .head-paragraph {
+    margin: 156px;
+  }
+  .head-paragraph p {
+    font-size: 64px;
+    width: 485px;
+    height: 230px;
+    color: white;
+  }
+  .head-paragraph a {
+    color: white;
+  }
+  .head-paragraph a:hover {
+    border: 2px solid skyblue;
+  }
+  .link {
+    height: 44px;
+    width: 229px;
+    background-color: #e02c6d;
+    padding: 10px;
+    padding-right: 35px;
+    text-decoration: none;
+  }
+  .head-picture {
+    margin-right: 157px;
+    margin-top: 240px;
+    width: 403px;
+    height: 438px;
+  }
+  /* headbar */
+  .players {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .info {
+    width: 330px;
+    height: 456px;
+    margin: 30px;
+    padding: 15px;
+  }
+  .info img {
+    width: 300px;
+    height: 256px;
+    padding: 15px;
+  }
+  .info:hover {
+    box-shadow: 5px;
+    border: 2px solid skyblue;
+  }
+  .article {
+    text-align: center;
+  }
+  .footer {
+    justify-content: center;
+  }
+  .social {
+    text-align: center;
+    margin-right: 475px;
+    width: 483.87px;
+    height: 213px;
+  }
+  
